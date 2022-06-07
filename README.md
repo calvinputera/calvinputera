@@ -19,17 +19,40 @@
   </a>
 </div>
 
+---
+
 - 👋 Hi, I’m Calvin Putera Loka
 - 👀 I’m interested in Web Development especially in the Frontend fields.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Full Stack Web Development
 - 📫 How to reach me [calvinputeraloka@gmail.com](calvinputeraloka@gmail.com)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" **alt="tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;  
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=calvinputera&theme=dark&background=000000)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinputera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=calvinputera&count_private=true&theme=react&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinputera&langs_count=5&theme=react)]()
 
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=calvinputera)](https://github.com/calvinputera/github-contribution-stats/)
+<!-- [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=calvinputera)](https://github.com/calvinputera/github-contribution-stats/) -->
 
 <!---
 calvinputera/calvinputera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
