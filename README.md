@@ -25,7 +25,7 @@
 - 👀 I’m interested in Web Development especially in the Frontend fields.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Full Stack Web Development
-- 📫 How to reach me [calvinputeraloka@gmail.com](calvinputeraloka@gmail.com)
+- 📫 How to reach me calvinputeraloka@gmail.com
 
 ---
 
