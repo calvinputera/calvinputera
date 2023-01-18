@@ -47,10 +47,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=calvinputera&theme=dark&background=000000)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinputera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=calvinputera&count_private=true&theme=react&showicons=true)]()
-
 
 <!-- [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=calvinputera)](https://github.com/calvinputera/github-contribution-stats/) -->
 
